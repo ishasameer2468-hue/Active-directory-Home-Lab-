@@ -1,8 +1,8 @@
 # Windows Active Directory Home Lab
 
-## 1. VirtualBox Installation
-I installed VirtualBox to host my isolated testing environment.
-![VirtualBox Dashboard](virtualbox_dashboard.png)
+## 1. VMware Workstation Installation
+I installed VMware to host my isolated testing environment.
+![VMware Dashboard](VMwaredashboard.png)
 
 ## 2. Windows Server 2022 installation
 I deployed Windows Server 2022 to act as the Domain Controller. 
